@@ -1,0 +1,9 @@
+celery==4.3.0
+Django==3.0.4
+django-cors-headers==3.0.2
+django-dbbackup==3.2.0
+djangorestframework==3.11.0
+gunicorn==19.9.0
+pymysql
+redis==3.2.1
+requests==2.21.0
