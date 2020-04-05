@@ -4,7 +4,7 @@ ENV SECRET_KEY 71)0c2pluviivk1!p93qouc_w017(#%x#g+2(*eo(0sf6h)vq3
 
 ENV DEBUG 1
 
-ENV ALLOWED_HOSTS web1
+ENV ALLOWED_HOSTS web
 
 COPY ./requirements.txt /home
 
