@@ -1,5 +1,5 @@
 celery==4.3.0
-Django==3.0.7
+Django==3.1.6
 django-cors-headers==3.0.2
 django-dbbackup==3.2.0
 djangorestframework==3.11.0
